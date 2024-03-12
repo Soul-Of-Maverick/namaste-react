@@ -1,0 +1,25 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "Namste React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soul-Of-Maverick/namaste-react/Igniting-Our-App.git"
+  },
+  "author": "React",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 5 version"
+  ]
+}
