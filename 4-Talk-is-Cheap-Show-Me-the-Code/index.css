@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    padding: 0;
+}
+
+.nav-items>ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items{   
+    padding: 20px 10px;
+    width: auto;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.app-logo{
+    width: 75px;
+    padding: 0px;
+}
+
+.app-name{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+
+/* footer */
+.footer {
+    position: relative;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 0; 
+    height: 50px;
+}
+
+
+/* body */
+.res-card {
+    width: 300px;
+    border: 1px solid #f0f0f0;
+    padding: 5px;
+}
+
+.cody-container{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    border: 1px solid #f0f0f0;
+    padding: 5px;
+}
