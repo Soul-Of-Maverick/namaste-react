@@ -1,0 +1,28 @@
+{
+  "name": "6-exploring-the-world",
+  "version": "1.0.0",
+  "description": "Exploring the World",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soul-Of-Maverick/namaste-react/Exploring-the-World"
+  },
+  "author": "React",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 5 version"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
